@@ -28,7 +28,6 @@
 
 <!-- YOUTUBE:START -->
 - [PI Approximation Animation](https://www.youtube.com/watch?v=z77q6ZqtNA0)
-- [How to make a Discord Input in HTML & CSS | Micro-Interaction & JavaScript Validation](https://www.youtube.com/watch?v=3tG1jUQbuSI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCfvNKCSgWbxvgSBXX1Yvorw?view_as=subscriber)
