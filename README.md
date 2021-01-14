@@ -1,7 +1,7 @@
 ### Hi there, I'm Arif Malik [website] 👋
 
 [![Website](https://img.shields.io/badge/cosmicdepth-coding-orange)](https://epoweriotatheta.netlify.app/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/MalikAarif1430?style=social)](https://twitter.com/MalikAarif1430)
+[![Twitter Follow](https://img.shields.io/badge/LinkedIn-0077B5)](https://www.linkedin.com/in/maarif1430/)
 
 
 ### Connect with me:
