@@ -3,9 +3,6 @@
 [![Website](https://img.shields.io/badge/cosmicdepth-coding-orange)](https://epoweriotatheta.netlify.app/)
 [![Twitter Follow](https://img.shields.io/badge/LinkedIn-0077B5)](https://www.linkedin.com/in/maarif1430/)
 [![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/Aarif1430)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aarif1430&show_icons=true&theme=tokyonight)
-
-
 
 
 ### Connect with me:
@@ -21,6 +18,8 @@
 ### GitHub Stats:
 
 ![gruvbox]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aarif1430&theme=tokyonight)
+
 
 ## 🧰 Languages and Tools:
 <p align="center">
