@@ -14,13 +14,9 @@
 
 <br />
 
-### Languages and Tools:
+### GitHub Stats:
 
 ![gruvbox]
-
-
-<br />
-<br />
 
 ---
 
