@@ -15,8 +15,8 @@
 <br />
 
 ### Languages and Tools:
-![gruvbox][gruvbox_repo]
 
+![gruvbox]
 
 
 <br />
