@@ -18,7 +18,7 @@
 ### GitHub Stats:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aarif1430&show_icons=true&theme=gruvbox)
- | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aarif1430&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aarif1430&theme=gruvbox)
 
 
 ## 🧰 Languages and Tools:
