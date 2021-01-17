@@ -4,6 +4,11 @@
 [![Twitter Follow](https://img.shields.io/badge/LinkedIn-0077B5)](https://www.linkedin.com/in/maarif1430/)
 [![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/Aarif1430)
 
+</br>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aarif1430&show_icons=true&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aarif1430&theme=gruvbox)
+
+
 
 ### Connect with me:
 
@@ -14,11 +19,6 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-
-### GitHub Stats:
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aarif1430&show_icons=true&theme=gruvbox)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aarif1430&theme=gruvbox)
 
 
 ## 🧰 Languages and Tools:
