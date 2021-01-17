@@ -16,7 +16,7 @@
 
 ### Languages and Tools:
 ![gruvbox][gruvbox_repo]
-[gruvbox]: https://github-readme-stats.vercel.app/api?username=Aarif1430&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=gruvbox
+
 
 
 <br />
@@ -51,3 +51,4 @@
 [youtube]: https://www.youtube.com/channel/UCfvNKCSgWbxvgSBXX1Yvorw?view_as=subscriber
 [instagram]: https://www.instagram.com/aarifmalik1430/?hl=en
 [linkedin]: https://www.linkedin.com/in/maarif1430/
+[gruvbox]: https://github-readme-stats.vercel.app/api?username=Aarif1430&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=gruvbox
