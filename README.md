@@ -30,11 +30,11 @@
  <img src="https://raw.githubusercontent.com/Aarif1430/stack-icons/master/logos/docker.svg" alt="docker" height="40" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/Aarif1430/stack-icons/master/logos/nodejs.svg" alt="nodejs" height="40" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/Aarif1430/stack-icons/master/logos/c-plusplus.svg" alt="cpluscplus" height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/Aarif1430/stack-icons/master/logos/mongodb/mongodb.png" alt="mongodb" height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/Aarif1430/stack-icons/master/logos/html/html.png" alt="html" height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/Aarif1430/stack-icons/master/logos/c/c.png" alt="c" height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/Aarif1430/stack-icons/master/logos/mysql/mysql.png" alt="mysql" height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/Aarif1430/stack-icons/master/logos/react/react.png" alt="react" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/Aarif1430/stack-icons/master/logos/mongodb.png" alt="mongodb" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/Aarif1430/stack-icons/master/logos/html.png" alt="html" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/Aarif1430/stack-icons/master/logos/c.png" alt="c" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/Aarif1430/stack-icons/master/logos/mysql.png" alt="mysql" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/Aarif1430/stack-icons/master/logos/react.png" alt="react" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 ---
