@@ -26,15 +26,15 @@
 <p align="center">
 <img onclick="#" src="https://raw.githubusercontent.com/Aarif1430/stack-icons/master/logos/python.svg" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/Aarif1430/stack-icons/master/logos/javascript.svg" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/Aarif1430/stack-icons/master/logos/docker.svg" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/Aarif1430/stack-icons/master/logos/nodejs.svg" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/Aarif1430/stack-icons/master/logos/c-plusplus.svg" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/Aarif1430/stack-icons/master/logos/mongodb/mongodb.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/Aarif1430/stack-icons/master/logos/html/html.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/Aarif1430/stack-icons/master/logos/c/c.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/Aarif1430/stack-icons/master/logos/mysql/mysql.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/Aarif1430/stack-icons/master/logos/react/react.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+
+ <img src="https://raw.githubusercontent.com/Aarif1430/stack-icons/master/logos/docker.svg" alt="docker" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/Aarif1430/stack-icons/master/logos/nodejs.svg" alt="nodejs" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/Aarif1430/stack-icons/master/logos/c-plusplus.svg" alt="cpluscplus" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/Aarif1430/stack-icons/master/logos/mongodb/mongodb.png" alt="mongodb" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/Aarif1430/stack-icons/master/logos/html/html.png" alt="html" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/Aarif1430/stack-icons/master/logos/c/c.png" alt="c" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/Aarif1430/stack-icons/master/logos/mysql/mysql.png" alt="mysql" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/Aarif1430/stack-icons/master/logos/react/react.png" alt="react" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 ---
