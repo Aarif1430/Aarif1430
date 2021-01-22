@@ -35,6 +35,7 @@
  <img src="https://raw.githubusercontent.com/Aarif1430/stack-icons/master/logos/c.svg" alt="c" height="40" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/Aarif1430/stack-icons/master/logos/mysql.svg" alt="mysql" height="40" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/Aarif1430/stack-icons/master/logos/react.svg" alt="react" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/Aarif1430/stack-icons/master/logos/airflow.svg" alt="airflow" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 ---
